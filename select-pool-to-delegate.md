@@ -14,7 +14,7 @@ In this section we will discuss the different aspects that users should consider
 Most of these sites will allow you to filter using various parameters to help you with the decision making. Furthermore, note the points below:
 
 #### Saturation Point
-  In order to not centralise all stake delegation to a single pool, after reaching a certain delegation criteria (calculated by `Total Supply in Circulation`/`nOpt`) where nOpt is currently 150, a pool will no longer be getting higher rewards for more delegation. Thus, the reward portion of individual delegator will start reducing further as more stake is delegated to such a pool.  
+  In order to not centralise all stake delegation to a single pool, after reaching a certain delegation criteria (calculated by `Total Supply in Circulation`/`nOpt`) where nOpt is currently 500, a pool will no longer be getting higher rewards for more delegation. Thus, the reward portion of individual delegator will start reducing further as more stake is delegated to such a pool.  
   
 #### Amount of Stake against a pool
   A Proof of Stake protocol allots more blocks to pools who have higher stake, until reaching the `saturation point`. Thus, if you're delegating to a pool with almost no stake - unless you are delegating a few millions, the chances for that pool to make blocks will be less - and you may not earn much rewards. At the same time, note that the higher the stake, the ratio of your stake to tota delegated stake against the pool will become smaller - and so will the rewards you earn. Ideally you would want to be somewhere between 3% to 60% of stake of saturation point so that you're delegated to a pool who is making blocks consistently as well as you're not losing out on rewards ratio.
